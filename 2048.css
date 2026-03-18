@@ -1,0 +1,35 @@
+body {
+    background-color: #DDEEEE;
+
+}
+
+h1 {
+    color: #DDEEEE;
+    background-color: #005588;
+}
+#grille {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+
+}
+
+table {
+    border: 0px solid #002255;
+    background-color: #BBDDDD;
+    width: 200px;
+    height: 200px ;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+td {
+    border: 1px solid #002255;
+    text-align: center;
+    width: 20px;
+    height: 20px ;
+
+
+}
